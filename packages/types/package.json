@@ -1,0 +1,10 @@
+{
+    "name": "@tbot/types",
+    "version": "0.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "@tbot/utility": "^0.0.0"
+    }
+}

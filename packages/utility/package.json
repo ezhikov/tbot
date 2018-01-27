@@ -1,0 +1,9 @@
+{
+  "name": "@tbot/utility",
+  "version": "0.0.0",
+  "description": "different utility functions",
+  "main": "index",
+  "author": "Kirill Popolov",
+  "license": "MIT",
+  "private": true
+}
